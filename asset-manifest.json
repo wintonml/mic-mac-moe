@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mic-mac-moe/static/css/main.9c5c5444.css",
+    "main.js": "/mic-mac-moe/static/js/main.d3d1f82d.js",
+    "static/js/453.ff60ad1c.chunk.js": "/mic-mac-moe/static/js/453.ff60ad1c.chunk.js",
+    "index.html": "/mic-mac-moe/index.html",
+    "main.9c5c5444.css.map": "/mic-mac-moe/static/css/main.9c5c5444.css.map",
+    "main.d3d1f82d.js.map": "/mic-mac-moe/static/js/main.d3d1f82d.js.map",
+    "453.ff60ad1c.chunk.js.map": "/mic-mac-moe/static/js/453.ff60ad1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5c5444.css",
+    "static/js/main.d3d1f82d.js"
+  ]
+}
